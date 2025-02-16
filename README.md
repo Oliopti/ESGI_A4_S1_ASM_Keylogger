@@ -11,17 +11,16 @@
 - **Oliopti** : Étudiant ESGI 1SI4 - Mastère Sécurité Informatique
 - **Adrien-XION** : Étudiant ESGI 1SI4 - Mastère Sécurité Informatique
 
-## Etape du projet :
+## Étapes du projet :
 
-### Etape 1 :
-Affichier à l'écrant les frappes clavier
+### Étape 1 :
+Afficher à l'écran les frappes clavier
 
-### Etape 2 :
-Enregistrer dans un fichier texte les frappes clavier 
+### Étape 2 :
+Enregistrer les frappes clavier dans un fichier texte
 
-### Etape 3 :
-Si on a le temps envoyer cela à un pc malveillant
-
+### Étape 3 :
+Si on a le temps, envoyer cela à un PC distant malveillant
 
 ## ⚠️ Avertissement – Disclaimer ⚠️
 
