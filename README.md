@@ -12,8 +12,9 @@
 - **Adrien-XION** : Étudiant ESGI 1SI4 - Mastère Sécurité Informatique
 
 
-⚠️ ## Avertissement – Disclaimer ⚠️
-🚨 ### Ce programme est à des fins éducatives uniquement ! 🚨
+## ⚠️ Avertissement – Disclaimer ⚠️
+
+### 🚨 Ce programme est à des fins éducatives uniquement ! 🚨
 
 🔹 Son utilisation peut entraîner des bugs, des dysfonctionnements, voire endommager votre système ou celui d'un tiers.
 
